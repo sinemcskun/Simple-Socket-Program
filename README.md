@@ -55,10 +55,11 @@ INADDR_ANY is used.
 
 #### Using the program with a single client:
 
-![alt text](<Screenshot from 2025-03-09 22-36-03.png>)
+![Screenshot from 2025-03-09 22-36-03](https://github.com/user-attachments/assets/6ccecbac-420d-47dc-aad8-e338a821deb6)
 
 #### Using the program with multiple clients:
 
-![alt text](<Screenshot from 2025-03-09 22-53-15.png>)
+![Screenshot from 2025-03-09 22-53-15](https://github.com/user-attachments/assets/1e256dd9-e402-4cae-9a72-8fc00f9791f8)
 
-![alt text](<Screenshot from 2025-03-09 23-07-29.png>)
+![Screenshot from 2025-03-09 23-07-29](https://github.com/user-attachments/assets/d2ae2138-a7a9-4be8-a3d6-d2dca3465813)
+
